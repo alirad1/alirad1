@@ -1,7 +1,5 @@
-<h1 align="center">Hi, my name is Ali 👋</h1>
-
 <p align="center">
-  <a href="https://alirad.dev"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Texas+A%26M;Software+%26+Hardware+Systems;Seeking+Summer+Internships" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hi,+my+name+is+Ali!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,12 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://alirad.dev"><img src="https://img.shields.io/static/v1?style=plastic&label=&message=Portfolio&color=FF0000&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/alirad07/"><img src="https://img.shields.io/static/v1?style=plastic&label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:alizrad99@gmail.com"><img src="https://img.shields.io/static/v1?style=plastic&label=&message=Email&color=EA4335&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://alirad.dev"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Portfolio&color=FF0000" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/alirad07/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=LinkedIn&color=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:alizrad99@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Email&color=EA4335" alt="Email" /></a>
 </p>
-
----
 
 ## 🔥 Highlights
 
@@ -59,10 +55,6 @@
 | **AggieQuest** | HowdyHack full-stack app - daily challenges via Flask REST API | [Repo](https://github.com/alirad1/AggieQuest-HowdyHack25) |
 | **RadGame** | 3D Java game with real-time rendering, collision detection, and enemy AI | [Repo](https://github.com/alirad1/RadGame) |
 | **alirad.dev** | Personal portfolio built from scratch - no framework, no build step | [Live](https://alirad.dev) · [Repo](https://github.com/alirad1/alirad.dev) |
-
-<p align="center">
-  <a href="https://alirad.dev/projects.html"><strong>→ See all projects on my portfolio</strong></a>
-</p>
 
 ---
 
