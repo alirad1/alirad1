@@ -16,10 +16,13 @@
 ## 🔥 Highlights
 
 - 🥇 **1st place** - Good Bull Pitch Competition (IRIS autonomous surgical light)
+- 🥈 **2nd place** - Aggies Create Innovation Expo for project **IRIS**
 - 🥈 **2nd place** - FREEWORKS stock tracker competition @ Texas A&amp;M
+- 💰 **$2,500 Meloy Innovators Award**
+- 🏛️ **Engineering Student Senator**
+- 🎨 **Aggies Create** Member & Media Manager
 - ☁️ **AWS Academy Cloud Foundations** graduate
 - 🔬 Bioinformatics research @ **Neuman Lab** - virus discovery
-- 🎹 Private piano instructor · orchestra leader · soccer player
 
 ---
 
